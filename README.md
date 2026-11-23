@@ -1,2 +1,0 @@
-# apk-6b045eb5
-WebView APK for YONIF TP 438 ARSAYUDA
